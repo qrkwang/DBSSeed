@@ -11,7 +11,9 @@ Project plan:
 3. MYSQL Database to store data for API server to retrieve from
 
 **What to install**
+
 Mysql Workbench - https://dev.mysql.com/downloads/workbench/     , set password to "root" (common pw), choose developer default.
+
 Node - https://nodejs.org/en/ , LTS version
 
 
